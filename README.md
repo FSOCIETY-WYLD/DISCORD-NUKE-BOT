@@ -16,3 +16,8 @@ MADE BY WYLD
  |-OPEN CONFIG ADD BOT TOKEN
 
  |-OPEN start.bat
+
+
+IF YOU DONT WANT IT AS .PY DONWLOAD HERE
+
+https://yukiemp.netlify.app/nukebot.html

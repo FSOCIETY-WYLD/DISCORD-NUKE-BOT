@@ -12,5 +12,7 @@ MADE BY WYLD
 ![Screenshot_20230210_142009](https://user-images.githubusercontent.com/121406222/218168217-8cca609d-2a90-4262-a1f6-1c109d8bae10.png)
 
 ##HOW TO USE##
+
  |-OPEN CONFIG ADD BOT TOKEN
+
  |-OPEN start.bat
